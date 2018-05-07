@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/constabulary/gb"
+	"github.com/hongrich/gb"
 )
 
 func printActions(w io.Writer, a *gb.Action) {

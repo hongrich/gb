@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/constabulary/gb"
-	"github.com/constabulary/gb/cmd"
-	"github.com/constabulary/gb/cmd/gb/internal/match"
+	"github.com/hongrich/gb"
+	"github.com/hongrich/gb/cmd"
+	"github.com/hongrich/gb/cmd/gb/internal/match"
 )
 
 // disable to keep working directory

@@ -22,7 +22,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/constabulary/gb/internal/version"
+	"github.com/hongrich/gb/internal/version"
 )
 
 var (

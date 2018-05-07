@@ -5,7 +5,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/constabulary/gb"
+	"github.com/hongrich/gb"
 	"github.com/pkg/errors"
 )
 

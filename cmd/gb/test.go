@@ -6,9 +6,9 @@ import (
 	"os"
 	"sort"
 
-	"github.com/constabulary/gb"
-	"github.com/constabulary/gb/cmd"
-	"github.com/constabulary/gb/test"
+	"github.com/hongrich/gb"
+	"github.com/hongrich/gb/cmd"
+	"github.com/hongrich/gb/test"
 )
 
 func init() {

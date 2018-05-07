@@ -10,10 +10,10 @@ import (
 
 	"go/build"
 
-	"github.com/constabulary/gb"
-	"github.com/constabulary/gb/cmd"
-	"github.com/constabulary/gb/internal/fileutils"
-	"github.com/constabulary/gb/internal/vendor"
+	"github.com/hongrich/gb"
+	"github.com/hongrich/gb/cmd"
+	"github.com/hongrich/gb/internal/fileutils"
+	"github.com/hongrich/gb/internal/vendor"
 	"github.com/pkg/errors"
 )
 

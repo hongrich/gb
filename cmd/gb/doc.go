@@ -6,8 +6,8 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/constabulary/gb"
-	"github.com/constabulary/gb/cmd"
+	"github.com/hongrich/gb"
+	"github.com/hongrich/gb/cmd"
 )
 
 func init() {

@@ -13,8 +13,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/constabulary/gb/internal/depfile"
-	"github.com/constabulary/gb/internal/untar"
+	"github.com/hongrich/gb/internal/depfile"
+	"github.com/hongrich/gb/internal/untar"
 	"github.com/pkg/errors"
 )
 

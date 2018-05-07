@@ -22,7 +22,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/constabulary/gb"
+	"github.com/hongrich/gb"
 )
 
 type coverInfo struct {

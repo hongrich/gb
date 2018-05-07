@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/constabulary/gb"
-	"github.com/constabulary/gb/internal/version"
+	"github.com/hongrich/gb"
+	"github.com/hongrich/gb/internal/version"
 )
 
 func TestTest(t *testing.T) {
